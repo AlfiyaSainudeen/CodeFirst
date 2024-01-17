@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Week2CodeBasedAssesment.props" />
+</Project>

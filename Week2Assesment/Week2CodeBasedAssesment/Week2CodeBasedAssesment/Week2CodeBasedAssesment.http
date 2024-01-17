@@ -1,0 +1,6 @@
+@Week2CodeBasedAssesment_HostAddress = http://localhost:5198
+
+GET {{Week2CodeBasedAssesment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

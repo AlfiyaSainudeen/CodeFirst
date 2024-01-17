@@ -1,0 +1,6 @@
+@HandsOnAPIUsingModelBinding_HostAddress = http://localhost:5160
+
+GET {{HandsOnAPIUsingModelBinding_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

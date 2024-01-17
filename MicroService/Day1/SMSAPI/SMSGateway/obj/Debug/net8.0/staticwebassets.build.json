@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tr7YcpQacIHs7uCJGB1HCJ49ke5lMq3JFRxUGG0nQ6Y=",
+  "Source": "SMSGateway",
+  "BasePath": "_content/SMSGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

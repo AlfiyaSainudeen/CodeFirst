@@ -1,0 +1,14 @@
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\net8.0\AssignmentOnLinq.exe
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\net8.0\AssignmentOnLinq.deps.json
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\net8.0\AssignmentOnLinq.runtimeconfig.json
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\net8.0\AssignmentOnLinq.dll
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\net8.0\AssignmentOnLinq.pdb
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\AssignmentOnLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\AssignmentOnLinq.AssemblyInfoInputs.cache
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\AssignmentOnLinq.AssemblyInfo.cs
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\AssignmentOnLinq.csproj.CoreCompileInputs.cache
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\AssignmentOnLinq.dll
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\refint\AssignmentOnLinq.dll
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\AssignmentOnLinq.pdb
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\AssignmentOnLinq.genruntimeconfig.cache
+C:\Alfiya\LINQ\LINQ_Assignment\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\net8.0\ref\AssignmentOnLinq.dll
